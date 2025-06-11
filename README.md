@@ -8,7 +8,7 @@ Aplicación web para el monitoreo de estudiantes basada en la integración con M
 
 ⚠️ Identificar estudiantes en riesgo de deserción
 
-📬 Enviar mensaje de alerta personalizados a estudiantes
+📬 Enviar mensaje de alerta personalizado a estudiante
 
 🧾 Generar informes detallados en PDF
 
