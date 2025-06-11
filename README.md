@@ -16,7 +16,7 @@ Aplicación web para el monitoreo de estudiantes basada en la integración con M
 
 # 💻 Tecnologías utilizadas:
 
-Frontend: React + Tailwind CSS
+Frontend: React + Tailwind CSS <img src="https://img.shields.io/badge/Frontend-React-blue?logo=react&logoColor=white" alt="React" />
 
 Backend: Node.js + Express
 
