@@ -14,5 +14,12 @@ Aplicación web para el monitoreo de estudiantes basada en la integración con M
 
 🧠 Apoyar la toma de decisiones académicas en entornos virtuales
 
-💻 Tecnologías utilizadas:
-React • Tailwind CSS • Node.js • Express • MongoDB • Docker • EmailJS • API REST
+# 💻 Tecnologías utilizadas:
+
+Frontend: React + Tailwind CSS
+
+Backend: Node.js + Express
+
+Base de Datos: MongoDB
+
+Otras: EmailJS, Docker, API REST, JWT
